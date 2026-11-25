@@ -10,7 +10,7 @@ Lima – Perú · 2026
 
 ## 📥 Descargar APK (Android)
 
-> **[⬇️ Descargar CiudadFuturista2050.apk](https://github.com/Neison1301/CIUDADFUTURISTA2025/releases/latest)**
+> **[⬇️ Descargar CiudadFuturista2050.apk](https://github.com/Neison1301/CIUDADFUTURISTA2025/releases/tag/v1.0)**
 
 **Cómo instalarlo:**
 
